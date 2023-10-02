@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranDucPhi_16_ThiCSharp", "TranDucPhi_16_ThiCSharp.csproj", "{D58532B3-4008-43F0-9551-D83957B68063}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D58532B3-4008-43F0-9551-D83957B68063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D58532B3-4008-43F0-9551-D83957B68063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D58532B3-4008-43F0-9551-D83957B68063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D58532B3-4008-43F0-9551-D83957B68063}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {882F90A8-1F76-484F-AC97-F3BFCD3B095C}
+	EndGlobalSection
+EndGlobal
